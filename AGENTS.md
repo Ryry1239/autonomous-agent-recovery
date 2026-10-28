@@ -21,7 +21,8 @@ Build practical, transparent tools for objective validation, authorised task rec
 
 ```bash
 python -m unittest discover -s tests -v
-python -m agent_recovery --demo
+python -m agent_recovery
+python -m agent_recovery.debate --input examples/sample-debate.json
 ```
 
 For design context, read [PREMISE.md](PREMISE.md), [DECISION_TREE.md](DECISION_TREE.md), and [HUMAN_APPROVAL.md](HUMAN_APPROVAL.md).
