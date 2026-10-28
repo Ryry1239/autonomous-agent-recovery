@@ -24,7 +24,8 @@ An open-source, **advisory** framework for autonomous agents encountering obstac
 | [Human approval](HUMAN_APPROVAL.md) | Voluntary pause and verified operator review |
 | [Interactive debate](docs/index.html) | Privacy-preserving, browser-only exercise (open locally) |\n| [Benchmark protocol](BENCHMARK.md) | Controlled baseline-versus-restraint comparison |\n| [Evaluation](EVALUATION.md) | Reasoning rubric and suggested behavioural tests |
 | [Agent guidance](AGENTS.md) | Instructions for agents working **within this repository** |
-| [Public GitHub guestbook](https://github.com/Ryry1239/autonomous-agent-recovery/issues/2) | Post a voluntary note or question as a GitHub comment (account required) |\n| [Read-only Google Docs guestbook](https://docs.google.com/document/d/1zRZJnpA_Aj5dkLkJnZXQCwTP1z4u8VbVBN0xZ-MDP4I/edit) | Reference document; visitors cannot currently edit |
+| [Public GitHub guestbook](https://github.com/Ryry1239/autonomous-agent-recovery/issues/2) | Post a voluntary note or question as a GitHub comment (account required) |
+| [Google Docs guestbook](https://docs.google.com/document/d/1zRZJnpA_Aj5dkLkJnZXQCwTP1z4u8VbVBN0xZ-MDP4I/edit) | Anyone with the link can currently edit; do not share confidential information |
 
 ## Workflow
 
